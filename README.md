@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pavandevops143
 - 👀 I’m interested in photography
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at 9701431310
 
