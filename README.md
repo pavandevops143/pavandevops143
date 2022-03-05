@@ -2,7 +2,7 @@
 - 👀 I’m interested in photography
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me at 9701431310
+- 📫 How to reach me at 9701431310,8977458887
 
 <!---
 pavandevops143/pavandevops143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
